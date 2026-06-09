@@ -1,2 +1,0 @@
-# Leros-docs
-Leros Documents
